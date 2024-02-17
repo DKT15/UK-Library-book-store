@@ -58,4 +58,4 @@ If you would like to contribute to this project, please follow these steps:
 
 ## License
 
-This project is currently doesn't have a licence.
+This project currently doesn't have a licence.
