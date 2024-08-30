@@ -241,6 +241,10 @@ header {
   cursor: not-allowed;
 }
 
+.section__title {
+  padding-top: 96px;
+}
+
 /* 
 
 HIGHLIGHTS 
